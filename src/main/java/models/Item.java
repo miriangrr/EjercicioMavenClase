@@ -1,14 +1,12 @@
 package models;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
+import lombok.*;
 
 @AllArgsConstructor
 @Getter
 @Setter
 @ToString
+@EqualsAndHashCode(of = "nombre")
 
 public class Item {
     private String nombre;
