@@ -1,2 +1,2 @@
 ## PROYECTO INVENTARIO RPG 
-Espero que de tiempo
+Este proyecto es un sistema de inventario para un juego de rol(RPG) desarrollado en JAVA,el sistema permite al jugador gestionar las armas,armaduras,consumibles,etc que tiene equipadas o en el inventario
